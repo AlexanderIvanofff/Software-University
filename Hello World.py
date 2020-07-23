@@ -1,2 +1,2 @@
-str = 'Hello World'
-print(str)
+name = input('Enter your name: ')
+print(f'Hello, {name}',end='!')
