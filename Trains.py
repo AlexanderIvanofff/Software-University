@@ -22,4 +22,3 @@ while True:
         train[index] -= count
 
 print(train)
-
